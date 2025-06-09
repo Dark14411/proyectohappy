@@ -87,6 +87,23 @@ php generar_usuarios_falsos.php
 
 Este script insertará 3,500 registros falsos en tu tabla `usuarios`.
 
+## Contribuidores
+
+* [Dark14411](https://github.com/Dark14411) - Creador del proyecto
+* [TuNombre](https://github.com/TuUsuario) - Mejoras en la documentación y estructura del proyecto
+
+## Mejoras Recientes
+
+* Actualización de la documentación para mejor claridad
+* Optimización de la estructura del proyecto
+* Mejora en las instrucciones de instalación
+
+## Próximas Características
+
+* Interfaz web para visualizar los registros
+* Sistema de búsqueda de usuarios
+* Exportación de datos a diferentes formatos
+
 ---
 
 **Nota Importante para Somee.com:**
